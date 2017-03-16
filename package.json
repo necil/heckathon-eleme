@@ -1,0 +1,26 @@
+{
+  "name": "heckathon-eleme",
+  "version": "1.0.0",
+  "description": "a simple project created for getir-bitaksi heckathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necil/heckathon-eleme.git"
+  },
+  "author": "Necil Albayrak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/necil/heckathon-eleme/issues"
+  },
+  "homepage": "https://github.com/necil/heckathon-eleme#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-json": "^1.0.0",
+    "moment": "^2.17.1",
+    "mongodb": "^2.2.24"
+  }
+}
